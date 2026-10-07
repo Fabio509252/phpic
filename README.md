@@ -1,2 +1,3 @@
 # phpic
-trabalhoe de 
+trabalho de DWII a linguagem usada é PHP
+
